@@ -12,3 +12,8 @@ How it works
 - We define what one full rotation is based off step sequence
 - we create a scan button that will do one full roation to the right while storing the distance (input from the ultra sonic sensor) and the rotation x 360.
 - Plot and connect the points we gathered from the scan using matplotlib to create the 2d scan of our space
+
+Usage
+---
+- Unfortunately I don't have a 3d printer to effeciently mount the sensor to the motor
+- The picture is a example of the sensor pointed to the celling of the room. the distance will stay constant so we will get a circle but when we mount it our distances will be variable so we can see the walls/objects
